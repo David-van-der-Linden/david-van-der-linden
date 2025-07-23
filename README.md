@@ -21,6 +21,6 @@ This includes:
 - 🧪 BeReLP – Benchmarking environment for mathematical re-optimization software.  
     – This is from my time at the Zuse Institute Berlin, the research institute that hosts the SCIP Optimization Development Team.
 - 🧊 Cube – A virtual Rubik's Cube project
-- 🤫 ? – Some more projects that I can't disclose publicly (yet) 🙂
+- 🤫 ? – Some more projects that I can't disclose publicly (yet) :)
 
 Contact me for (viewing) access or collaboration inquiries.
