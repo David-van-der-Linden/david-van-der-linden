@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **David-van-der-Linden/david-van-der-linden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--
+### ⚠️ Private Work in Progress
+-->
+
+Most of my repositories are not (yet) public.  
+This includes:
+- 🧪 BeReLP – Benchmarking environment for mathematical re-optimization software
+- 🧊 cube - A virtual Rubix cube project
+- 🤫 ? - Some more projects that i can't disclose publicly (yet) :)
+
+Contact me for (viewing) access or collaboration inquiries.
