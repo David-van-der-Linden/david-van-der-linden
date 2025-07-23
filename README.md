@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 Most of my repositories are not (yet) public.  
 This includes:
-- 🧪 BeReLP – Benchmarking environment for mathematical re-optimization software.
+- 🧪 BeReLP – Benchmarking environment for mathematical re-optimization software.  
     – This is from my time at the Zuse Institute Berlin, the research institute that hosts the SCIP Optimization Development Team.
-- 🧊 cube - A virtual Rubix cube project 
-- 🤫 ? - Some more projects that i can't disclose publicly (yet) :)
+- 🧊 Cube – A virtual Rubik's Cube project
+- 🤫 ? – Some more projects that I can't disclose publicly (yet) 🙂
 
 Contact me for (viewing) access or collaboration inquiries.
