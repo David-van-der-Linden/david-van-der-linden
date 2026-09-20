@@ -21,7 +21,6 @@ This includes:
 - 🧪 BeReLP - Benchmarking environment for mathematical re-optimization software
     - This is from my time at the Zuse Institute Berlin, the research institute that hosts the SCIP Optimization Development Team
 - 🧊 Cube - A virtual Rubik's Cube project
-- 🎹 Xylobot - A BioRobotics project that uses muscle activity sensors in order to enable people with muscle diseases to still be able to make music
 - 🤫 ? - Some more projects that I can't disclose publicly (yet) :)
 
 Contact me for access or collaboration.
@@ -36,3 +35,5 @@ Here are some public projects you could check out:
 - 🌲 [Advent of Code 2023](https://github.com/David-van-der-Linden/AofC2023)
   - How I solved all the AofC programming puzzles of 2023
   - [Advent of Code](https://adventofcode.com/) (AoC) is an annual programming challenge event created by Eric Wastl
+- 🎹🤖 [Xylobot][https://https://github.com/David-van-der-Linden/xylobot] - A BioRobotics project that uses muscle activity sensors in order to enable people with muscle diseases to still be able to make music
+
